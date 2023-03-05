@@ -1,0 +1,7 @@
+/*
+    Subtitles:
+
+  > Subtitles are very useful if you don't understand his accent,
+  > It can be turned on/off at the bottom via the square icon.
+
+*/

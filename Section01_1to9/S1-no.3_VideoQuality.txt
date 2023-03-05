@@ -1,0 +1,7 @@
+/*
+    Video Quality:
+
+  > All Udemy videos is presented in 1080p,
+  > if lagging occurs switch to 720p.
+
+*/

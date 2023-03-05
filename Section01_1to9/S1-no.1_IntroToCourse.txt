@@ -1,0 +1,6 @@
+/*
+    Introduction to course:
+
+   > Explanation of what and why Tim Buchalka updates the course on a regular basis.
+
+*/

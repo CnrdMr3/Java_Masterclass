@@ -1,0 +1,10 @@
+/*
+    Which Version Of Java:
+
+     Run Java programs with both the =
+   > JVM = Java-Virtual-Machine &
+   > JRE = Java-Runtime-Edition.
+
+   > Use JDK17(LTS) - 'L.T.S' means Long Term Support.
+     Meaning it is update, and maintained for the foreseeing future.
+*/

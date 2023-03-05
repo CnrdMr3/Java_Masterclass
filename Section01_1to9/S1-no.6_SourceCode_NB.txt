@@ -1,0 +1,14 @@
+/*
+    Source Code - (Note: Important!!!):
+
+  > It's important to type in the code YOURSELF as Tim is explaining.
+  > Best, most effective way to learn.
+    ( Understanding the code, finding errors and fixing them = key to success )
+  > Really make sure you understand the code before moving on to the next video.
+
+  > Each section has a 'Resources' box, where you can download the zip file of it.
+
+  > Yet, it's recommended to type the code as you see it by yourself.
+    It's the most productive way to learn to become a programmer.
+
+*/

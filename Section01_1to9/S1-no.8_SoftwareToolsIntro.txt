@@ -1,0 +1,7 @@
+/*
+    Software Tools Intro:
+
+   > Using JDK17 (JDK = Java Development Kit).
+   > IntelliJ IDEA (IDE).
+
+*/
