@@ -1,0 +1,53 @@
+/*
+
+    jshell> int myFirstNumber = (10 + 5) + (2 * 10);
+    myFirstNumber ==> 35
+
+    jshell> int mySecondNumber = 12;
+    mySecondNumber ==> 12
+
+    jshell> int myThirdNumber = 6;
+    myThirdNumber ==> 6
+
+    jshell> System.out.print("int for 12 and 6 = Challenge");
+    int for 12 and 6 = Challenge
+    jshell>
+
+    jshell>
+
+    jshell> /var
+    |    int myFirstNumber = 35
+    |    int mySecondNumber = 12
+    |    int myThirdNumber = 6
+
+    jshell>
+
+    jshell> int myTotal = myFirstNumber + mySecondNumber + myThirdNumber;
+    myTotal ==> 53
+
+    jshell> myThirdNumber = myFirstNumber * 2;
+    myThirdNumber ==> 70
+
+    jshell>
+
+
+    jshell> myTotal = myFirstNumber + mySecondNumber + myThirdNumber;
+    myTotal ==> 117
+
+    jshell> System.out.print("Challenge");
+    Challenge
+    jshell>
+
+    jshell> int myLastOne = 1000;
+    myLastOne ==> 1000
+
+    jshell> myLastOne = myLastOne - myTotal;
+    myLastOne ==> 883
+
+    jshell> int myLastOne = 999 - myTotal;
+    myLastOne ==> 882
+
+    jshell> System.out.print(myLastOne);
+    882
+
+*/
