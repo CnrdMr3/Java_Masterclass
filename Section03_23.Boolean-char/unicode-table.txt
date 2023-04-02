@@ -1,0 +1,15 @@
+/*
+--> Visit: https://unicode-table.com
+
+--> Search = 'Basic Latin'
+
+--> Latin Capital Letter 'D'
+
+--> Copy code ( u0044 ),
+              ( 68 )
+
+--> Both codes represent 'D',
+        example: char myUnicode = '\u0044';
+                 char myDecimalCode = 68;
+
+                 ! NOTE: Unicode syntax = '\etc.'
