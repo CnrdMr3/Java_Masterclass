@@ -27,7 +27,5 @@ public class Hello_logicalAndOperator {
 		if (newValue == 50) {
 			System.out.println("This is true!");
 		}
-
-
 	}
 }
