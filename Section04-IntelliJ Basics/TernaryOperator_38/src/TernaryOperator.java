@@ -39,9 +39,9 @@ public class TernaryOperator {
 				System.out.println("This is shorthand!");
 				// 	" (!isCar1) " means the same as " (isCar1 != true) "
 		 */
-			}
+		}
 
-			String makeOfCar = "Volkswagen";
-			boolean isDomestic = makeOfCar == "Volkswagen" ? false : true;
+		String makeOfCar = "Volkswagen";
+		boolean isDomestic = makeOfCar == "Volkswagen" ? false : true;
 	}
 }
