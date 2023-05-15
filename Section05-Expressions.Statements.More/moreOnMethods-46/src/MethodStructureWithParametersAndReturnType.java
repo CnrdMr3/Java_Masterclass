@@ -2,7 +2,7 @@ public class MethodStructureWithParametersAndReturnType {
 
 	/*
 	>>> Example:
-		public static int calculateMyAge( int dateOf Birth ) {
+		public static int calculateMyAge( int dateOfBirth ) {
 			return (2023 - dateOfBirth);
 		}
 
