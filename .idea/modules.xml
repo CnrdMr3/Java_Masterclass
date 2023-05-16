@@ -8,7 +8,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Masterclass.iml" filepath="$PROJECT_DIR$/.idea/Java_Masterclass.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section04-IntelliJ Basics/Logical.AND.Operator-35/Logical.AND.Operator-35.iml" filepath="$PROJECT_DIR$/Section04-IntelliJ Basics/Logical.AND.Operator-35/Logical.AND.Operator-35.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section04-IntelliJ Basics/Logical.OR.Operator-36/Logical.OR.Operator-36.iml" filepath="$PROJECT_DIR$/Section04-IntelliJ Basics/Logical.OR.Operator-36/Logical.OR.Operator-36.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Section05-Expressions.Statements.More/MethodOverloading-51/MethodOverloading-51.iml" filepath="$PROJECT_DIR$/Section05-Expressions.Statements.More/MethodOverloading-51/MethodOverloading-51.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice_JavaAdvanced/Practice_JavaAdvanced.iml" filepath="$PROJECT_DIR$/Practice_JavaAdvanced/Practice_JavaAdvanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section03-jShell/Section03-jshell.iml" filepath="$PROJECT_DIR$/Section03-jShell/Section03-jshell.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section04-IntelliJ Basics/Section04-IntelliJ Basics.iml" filepath="$PROJECT_DIR$/Section04-IntelliJ Basics/Section04-IntelliJ Basics.iml" />
@@ -20,10 +19,13 @@
       <module fileurl="file://$PROJECT_DIR$/Section05-Expressions.Statements.More/ifThenElseChallenge-44/ifThenElseChallenge-44.iml" filepath="$PROJECT_DIR$/Section05-Expressions.Statements.More/ifThenElseChallenge-44/ifThenElseChallenge-44.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section05-Expressions.Statements.More/keyWordExpressions-41/keyWordExpressions-41.iml" filepath="$PROJECT_DIR$/Section05-Expressions.Statements.More/keyWordExpressions-41/keyWordExpressions-41.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section05-Expressions.Statements.More/methodChallenge-48/methodChallenge-48.iml" filepath="$PROJECT_DIR$/Section05-Expressions.Statements.More/methodChallenge-48/methodChallenge-48.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section05-Expressions.Statements.More/methodOverloading-51/methodOverloading-51.iml" filepath="$PROJECT_DIR$/Section05-Expressions.Statements.More/methodOverloading-51/methodOverloading-51.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section05-Expressions.Statements.More/methodOverloadingChallenge-52/methodOverloadingChallenge-52.iml" filepath="$PROJECT_DIR$/Section05-Expressions.Statements.More/methodOverloadingChallenge-52/methodOverloadingChallenge-52.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section05-Expressions.Statements.More/methodsInJava-45/methodsInJava-45.iml" filepath="$PROJECT_DIR$/Section05-Expressions.Statements.More/methodsInJava-45/methodsInJava-45.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section05-Expressions.Statements.More/methodsRecap-47/methodsRecap-47.iml" filepath="$PROJECT_DIR$/Section05-Expressions.Statements.More/methodsRecap-47/methodsRecap-47.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section05-Expressions.Statements.More/moreOnMethods-46/moreOnMethods-46.iml" filepath="$PROJECT_DIR$/Section05-Expressions.Statements.More/moreOnMethods-46/moreOnMethods-46.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section04-IntelliJ Basics/operatorPrecedence_Challenge-39/operatorPrecedence_Challenge-39.iml" filepath="$PROJECT_DIR$/Section04-IntelliJ Basics/operatorPrecedence_Challenge-39/operatorPrecedence_Challenge-39.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section05-Expressions.Statements.More/secondsAndMinutesChallenge-53/secondsAndMinutesChallenge-53.iml" filepath="$PROJECT_DIR$/Section05-Expressions.Statements.More/secondsAndMinutesChallenge-53/secondsAndMinutesChallenge-53.iml" />
     </modules>
   </component>
 </project>

@@ -1,28 +1,22 @@
 public class Exercise2_SpeedConverter {
 
-	public static void main(String[] args) {
-		double kilometersPerHour;
-	}
+	public static long toMilesPerHour (double kilometersPerHour){
+		if (kilometersPerHour < 0){
+			return -1;
+		}
 
-	public static void toMilesPerHour(double kilometersPerHour, Exercise2_SpeedConverter SpeedConverter) {
-
-		kilometersPerHour(-5.00);
-		SpeedConverter.toMilesPerHour(5);
-		SpeedConverter.toMilesPerHour(-10);
-	}
-
-	private void toMilesPerHour(int i) {
+		return Math.round(kilometersPerHour / 1.609);
 
 	}
 
-	public static void kilometersPerHour(double kilometersPerHour) {
-		boolean toMilesPerHour = false;
-		if (toMilesPerHour) {
-			System.out.println("negative");
+	public static void printConversion(double kilometersPerHour) {
+		if (kilometersPerHour < 0){
+			System.out.println("Invalid Value");
 		} else {
-			System.out.println("zero");
-				{
-			}
+			long milesPerHour = toMilesPerHour(kilometersPerHour);
+			System.out.println(kilometersPerHour +
+					" km/h = " + milesPerHour +
+					" mi/h ");
 		}
 	}
 }
