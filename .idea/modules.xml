@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Section05-Expressions.Statements.More/BonusChallenge-54/BonusChallenge-54.iml" filepath="$PROJECT_DIR$/Section05-Expressions.Statements.More/BonusChallenge-54/BonusChallenge-54.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section05-Expressions.Statements.More/CodingExercise-50/CodingExercise-50.iml" filepath="$PROJECT_DIR$/Section05-Expressions.Statements.More/CodingExercise-50/CodingExercise-50.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section04-IntelliJ Basics/HelloWorld/HelloWorld_33.iml" filepath="$PROJECT_DIR$/Section04-IntelliJ Basics/HelloWorld/HelloWorld_33.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section05-Expressions.Statements.More/IfKeyWordsAndCodeBlocks-43/IfKeyWordsAndCodeBlocks-43.iml" filepath="$PROJECT_DIR$/Section05-Expressions.Statements.More/IfKeyWordsAndCodeBlocks-43/IfKeyWordsAndCodeBlocks-43.iml" />

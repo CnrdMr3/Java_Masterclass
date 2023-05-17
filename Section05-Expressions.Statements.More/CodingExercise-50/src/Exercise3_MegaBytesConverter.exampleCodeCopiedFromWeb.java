@@ -4,13 +4,11 @@
 import java.math.BigInteger;
 
 
-class GFG
-{
+class GFG {
 
 	// Function to calculate the bits
-	static BigInteger Bits(int kilobytes)
-	{
-		BigInteger  Bits = new BigInteger("0");
+	static BigInteger Bits(int kilobytes) {
+		BigInteger Bits = new BigInteger("0");
 
 		// calculates Bits
 		// 1 kilobytes(s) = 8192 bits
@@ -22,8 +20,7 @@ class GFG
 	}
 
 	// Function to calculate the bytes
-	static BigInteger Bytes(int kilobytes)
-	{
+	static BigInteger Bytes(int kilobytes) {
 		BigInteger Bytes = new BigInteger("0");
 
 		// calculates Bytes
@@ -36,8 +33,7 @@ class GFG
 	}
 
 	// Driver code
-	public static void main(String args[])
-	{
+	public static void main(String args[]) {
 		int kilobytes = 1;
 
 		System.out.print(kilobytes + " Kilobytes = "
