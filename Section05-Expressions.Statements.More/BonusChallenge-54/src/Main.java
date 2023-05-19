@@ -22,12 +22,12 @@ public class Main {
 	public static String getDurationString(int minutes, int seconds) {
 
 		if (minutes < 0) {
-			return "Invalid data for minutes (" + minutes
+			return "Invalid data for minutes, like I mentioned in the previous method, DUFUS (" + minutes
 					+ "),must be positive integer value";
 		}
 
 		if (seconds <= 0 || seconds >= 59) {
-			return "Invalid data for seconds (" + seconds
+			return "Invalid data for seconds, ok fine, I get it, IQ isn't every one's forté? (" + seconds
 					+ "),must be a value between 0 and 59.";
 		}
 		int hours = minutes / 60;
