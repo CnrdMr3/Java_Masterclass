@@ -2,17 +2,6 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		printWeekDay(0);
-		printWeekDay(1);
-		printWeekDay(2);
-		printWeekDay(3);
-		printWeekDay(4);
-		printWeekDay(5);
-		printWeekDay(6);
-		printWeekDay(7);
-
-		System.out.println();
-
 		// Print the day of the week with both cases, and print the difference between the two case types.
 		printDayOfWeek(0);
 		printDayOfWeek(1);
@@ -22,6 +11,18 @@ public class Main {
 		printDayOfWeek(5);
 		printDayOfWeek(6);
 		printDayOfWeek(7);
+
+		System.out.println();
+
+		printWeekDay(0);
+		printWeekDay(1);
+		printWeekDay(2);
+		printWeekDay(3);
+		printWeekDay(4);
+		printWeekDay(5);
+		printWeekDay(6);
+		printWeekDay(7);
+
 	}
 
 	public static void printDayOfWeek(int day) {
@@ -34,7 +35,7 @@ public class Main {
 			case 4 -> "Thursday";
 			case 5 -> "Friday";
 			case 6 -> "Saturday";
-			default -> "Invalid Day";
+			default -> "Invalid Day mate, FOCUS!";
 		};
 
 		System.out.println(day + " stands for " + dayOfWeek);
@@ -42,7 +43,7 @@ public class Main {
 
 	public static void printWeekDay(int day) {
 
-		String dayOfWeek = "Invalid Day";
+		String dayOfWeek = "Invalid Day, FOCUS... 7 isn't a valid option!";
 		if (day == 0) {
 			dayOfWeek = "Sunday";
 		} else if (day == 1) {
