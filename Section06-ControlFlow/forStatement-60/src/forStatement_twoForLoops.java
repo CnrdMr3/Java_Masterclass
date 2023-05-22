@@ -1,7 +1,7 @@
 public class forStatement_twoForLoops {
 	public static void main(String[] args) {
 
-		for (int counter = 1; counter <=5; counter++) {
+		for (int counter = 1; counter <= 5; counter++) {
 			System.out.println(counter);
 		}
 
@@ -12,7 +12,6 @@ public class forStatement_twoForLoops {
 	}
 
 	public static double calculateInterest(double amount, double interestRate) {
-
 		return (amount * (interestRate / 100));
 	}
 }
