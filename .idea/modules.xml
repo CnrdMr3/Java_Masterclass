@@ -40,6 +40,7 @@
       <module fileurl="file://$PROJECT_DIR$/Section06-ControlFlow/switchSatement-56/switchSatement-56.iml" filepath="$PROJECT_DIR$/Section06-ControlFlow/switchSatement-56/switchSatement-56.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section06-ControlFlow/switchStatement-57/switchStatement-57.iml" filepath="$PROJECT_DIR$/Section06-ControlFlow/switchStatement-57/switchStatement-57.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section06-ControlFlow/traditionalSwitchChallenge-58/traditionalSwitchChallenge-58.iml" filepath="$PROJECT_DIR$/Section06-ControlFlow/traditionalSwitchChallenge-58/traditionalSwitchChallenge-58.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section06-ControlFlow/whileAndDoWhileStatements-64/whileAndDoWhileStatements-64.iml" filepath="$PROJECT_DIR$/Section06-ControlFlow/whileAndDoWhileStatements-64/whileAndDoWhileStatements-64.iml" />
     </modules>
   </component>
 </project>
