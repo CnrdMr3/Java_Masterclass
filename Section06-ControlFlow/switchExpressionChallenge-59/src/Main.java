@@ -27,6 +27,7 @@ public class Main {
 
 	public static void printDayOfWeek(int day) {
 
+
 		String dayOfWeek = switch (day) {
 			case 0 -> { yield "Sunday";}
 			case 1 -> "Monday";
